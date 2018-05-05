@@ -4,6 +4,7 @@ function App(props){
 	<div>
 		<h1>Header of App</h1>
 	</div>
+	)
 }
 
 export default App;
